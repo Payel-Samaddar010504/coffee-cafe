@@ -25,6 +25,7 @@ html{
     overflow: hidden;
     scroll-padding-top: 9rem;
     scroll-behavior: smooth;
+    overflow: auto;
 }
 
 html::-webkit-scrollbar{
